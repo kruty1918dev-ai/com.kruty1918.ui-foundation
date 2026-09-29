@@ -1,0 +1,17 @@
+{
+    "name": "Kruty1918.UiFoundation",
+    "rootNamespace": "Kruty1918.UiFoundation",
+    "references": [
+        "Unity.TextMeshPro",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
